@@ -19,5 +19,3 @@ In short:
 To see the accepted arguments, do::
 
   python rst2qhc --help
-
-KNOWN BUGS: the .qhpc file doesn't work, if anyone can give a hand, that's nice.
